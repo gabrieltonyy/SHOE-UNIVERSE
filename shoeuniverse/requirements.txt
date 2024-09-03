@@ -1,0 +1,4 @@
+# This file is typically not needed for React projects as dependencies are managed via package.json
+# However, if you need to document the environment, you can list the Node.js and npm versions here.
+node==14.17.0
+npm==6.14.13
