@@ -54,7 +54,7 @@ shoeuniverse/
 
 3. **Start the React app**:
    ```bash
-   npm start
+   npm run dev
    ```
 
 ## ModelPage
@@ -242,4 +242,4 @@ if __name__ == '__main__':
 
 ## Conclusion
 
-ShoeUniverse is a comprehensive shoe e-commerce application that leverages machine learning to classify shoe types. The `ModelPage` is the core feature, allowing users to upload or capture images and get predictions. The Flask backend handles the image processing and prediction using a pre-trained TensorFlow model. Follow the setup instructions to get the application running locally.
+ShoeUniverse is a comprehensive shoe e-commerce application that leverages machine learning to classify shoe types. The `ModelPage` is the core feature, allowing users to upload or capture images and get predictions. The Flask backend handles the image processing and prediction using a pre-trained TensorFlow model. Follow the setup instructions to get the application running locally. move to model page to test the model.
